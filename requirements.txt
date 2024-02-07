@@ -1,0 +1,13 @@
+catboost
+streamlit
+streamlit_option_menu
+matplotlib
+pandas
+pip
+scikit_learn
+shap
+streamlit
+xgboost
+xlrd
+numba
+streamlit_option_menu
